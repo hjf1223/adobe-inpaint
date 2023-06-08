@@ -1,3 +1,4 @@
+# python2
 from requests_toolbelt.multipart import decoder
 import requests
 from requests.structures import CaseInsensitiveDict as CaseInsensitiveDict
